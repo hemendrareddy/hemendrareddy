@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am an experienced AWS Cloud Engineer with 2 year
 ## 🛠 Technical Skills:
 - **Cloud Platforms**: AWS (EC2, RDS, S3, IAM, CloudWatch, RedShift, EKS, etc.)
 - **Operating Systems**: Linux (extensive server administration) 
-- **DevOps Tools**: Git, GitHub, Jenkins, Docker, Kubernetes, Terraform
+- **DevOps Tools**: Git, GitHub, Jenkins, Docker, Kubernetes
 - **CI/CD**: Automation with Jenkins and deployment using Docker and Kubernetes
 - **Databases**: SQL, RDS (AWS), RedShift
 
